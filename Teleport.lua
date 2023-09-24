@@ -1,5 +1,8 @@
 -- Gui to Lua
 -- Version: 3.2
+-- MADE BY Ahmed_Prowy --
+
+-- NOT MINE I BROUGHT IT FROM PASTEBIN --
 
 -- Instances:
 
@@ -82,7 +85,7 @@ TextLabel_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.Position = UDim2.new(0, 0, 0.850090206, 0)
 TextLabel_2.Size = UDim2.new(0, 583, 0, 50)
 TextLabel_2.Font = Enum.Font.SourceSansItalic
-TextLabel_2.Text = "GUI Maker : Ahmed_Prowy"
+TextLabel_2.Text = "Script Maker : Ahmed_Prowy"
 TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_2.TextScaled = true
 TextLabel_2.TextSize = 14.000
