@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({IntroText = "TRGui BETA V4 açılıyor.....",Name = "🇹🇷TRGui BETA V4🇨🇾", HidePremium = false, SaveConfig = true, ConfigFolder = "TRScripts"})
+local Window = OrionLib:MakeWindow({IntroText = "Boblox Script Hub açılıyor.....",Name = "🇹🇷Boblox Script Hub🇨🇾", HidePremium = false, SaveConfig = true, ConfigFolder = "Boblox"})
 
 -- Tabs
 
@@ -12,11 +12,11 @@ local MainTab = Window:MakeTab({
 
 })
 
--- Button
+-- Buttons
 
 MainTab:AddButton({
 
-	Name = "Uçma",	Callback = function()   loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknownDeveloptment/TRScripts/main/Fly"))();
+	Name = "Uçma",	Callback = function()   loadstring(game:HttpGet("https://raw.githubusercontent.com/monkebutcool/Boblox-Script-Hub/main/Fly.lua"))();
 
   	end    
 
