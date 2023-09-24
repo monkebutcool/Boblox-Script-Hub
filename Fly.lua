@@ -1,3 +1,7 @@
+-- MADE BY XNEOFF --
+
+-- NOT MINE I BROUGHT IT FROM YOUTUBE --
+
 local main = Instance.new("ScreenGui")
 
 local Frame = Instance.new("Frame")
